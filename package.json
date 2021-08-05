@@ -1,0 +1,27 @@
+{
+  "name": "boyermoore",
+  "version": "1.0.0",
+  "description": "naive string search algoritm in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "naive",
+    "string",
+    "search",
+    "algorithm",
+    "javascript"
+  ],
+  "author": "Richard",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "jasmine": "^3.8.0",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.4"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}

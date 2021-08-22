@@ -16,4 +16,4 @@ Here is the original V8's repository https://github.com/v8/v8 / https://chromium
 - Run the unit test
 ` - npm run test `
 
-(c) https://tealtadpole.wordpress.com
+(c) https://tealtadpole.me
